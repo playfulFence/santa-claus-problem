@@ -18,7 +18,7 @@ All the elves waiting in front of the workshop immediately go on vacation.
 The other elves go on vacation when they need help from Santa and find that the workshop is closed.
 
     ---------------------------------------DETAILED DESCRIPTION------------------------------------
-      FORMAT : ./proj NE NR TE TR
+      FORMAT : ./santa_problem NE NR TE TR
     |-----------------------------------------------------------------------------------------|
     |• NE - number of elves (0 < NE < 1000)                                                   | 
     |-----------------------------------------------------------------------------------------|
