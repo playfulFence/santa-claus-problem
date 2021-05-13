@@ -1,5 +1,7 @@
 # santa-claus-problem
 
+###### version for Mac will be uploaded later (no Windows, sry)
+
 Santa Claus sleeps in his workshop at the North Pole and can only be woken up
 
 1. At a time when all his reindeers are back from summer vacation.
