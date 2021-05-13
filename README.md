@@ -1,6 +1,6 @@
 # santa-claus-problem
 
-###### version for Mac will be uploaded later (no Windows, sry)
+###### (no Windows, sry)
 
 Santa Claus sleeps in his workshop at the North Pole and can only be woken up
 
